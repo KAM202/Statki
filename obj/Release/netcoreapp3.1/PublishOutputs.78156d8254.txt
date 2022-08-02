@@ -1,0 +1,5 @@
+C:\Users\kam\source\repos\StatkiC\bin\Release\netcoreapp3.1\publish\StatkiC.exe
+C:\Users\kam\source\repos\StatkiC\bin\Release\netcoreapp3.1\publish\StatkiC.dll
+C:\Users\kam\source\repos\StatkiC\bin\Release\netcoreapp3.1\publish\StatkiC.deps.json
+C:\Users\kam\source\repos\StatkiC\bin\Release\netcoreapp3.1\publish\StatkiC.runtimeconfig.json
+C:\Users\kam\source\repos\StatkiC\bin\Release\netcoreapp3.1\publish\StatkiC.pdb

@@ -1,0 +1,17 @@
+C:\Users\kam\source\repos\StatkiC\bin\Debug\netcoreapp3.1\StatkiC.exe
+C:\Users\kam\source\repos\StatkiC\bin\Debug\netcoreapp3.1\StatkiC.dll
+C:\Users\kam\source\repos\StatkiC\bin\Debug\netcoreapp3.1\StatkiC.deps.json
+C:\Users\kam\source\repos\StatkiC\bin\Debug\netcoreapp3.1\StatkiC.runtimeconfig.json
+C:\Users\kam\source\repos\StatkiC\bin\Debug\netcoreapp3.1\StatkiC.runtimeconfig.dev.json
+C:\Users\kam\source\repos\StatkiC\bin\Debug\netcoreapp3.1\StatkiC.pdb
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.MainWindow.resources
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.StartWindow.resources
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.csproj.GenerateResource.cache
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.AssemblyInfoInputs.cache
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.AssemblyInfo.cs
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.csproj.CoreCompileInputs.cache
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.dll
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.pdb
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.genruntimeconfig.cache
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.AskBox.resources
+C:\Users\kam\source\repos\StatkiC\obj\Debug\netcoreapp3.1\StatkiC.csprojAssemblyReference.cache
